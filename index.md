@@ -27,7 +27,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Negotiations occur everyday in the scientific laboratory and workplace and often involve issues that are key to research success and career advancement.  This workshop teaches the fundamentals of negotiation relevant to a variety of one-on-one conversations and group settings.  Topics include the importance of negotiation to advance research and career objectives, identification of negotiables for research and career advancement, elements of a successful negotiation, the importance of developing alternatives to an agreement, techniques for handling difficult people and conversations, the importance of listening and appreciating different viewpoints and identification of short and long-term negotiation goals.  The session includes self-assessment discussions, role playing and practicing the techniques learned.
 
 #### Equality and diverse teams: because a colorful society opens up a rainbow of possibilities
-- [Science-equality](http://haasinstitute.berkeley.edu/science-equality-volume-2-effect-gender-roles-implicit-bias-and-stereotype-threat-lives-women-and)
+- [Science-equality - v.1](http://perception.org/wp-content/uploads/2014/11/Science-of-Equality.pdf)
+- [Science-equality - v.2](http://haasinstitute.berkeley.edu/sites/default/files/science-of-equality-vol-2.pdf)
 
 #### Small talk: because we need to beat around the bush to start
 - [12 tips for small talk](https://www.acr.org/~/media/ACR/Documents/PDF/Career-Center/Jobseeker-Resources/12TipsSmallTalk.pdf)
