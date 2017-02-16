@@ -9,6 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Courses
 - [Andy Stanley podcast](https://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666?mt=2)
 - [UC Berkeley Haas 'nano'MBA](http://executive.berkeley.edu/open-programs)
+  - [Example of Executive Leadership Program](http://executive.berkeley.edu/sites/default/files/Women%27s%20Executive%20Leadership%20Program.pdf)
 
 
 ### References
