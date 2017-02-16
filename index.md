@@ -13,6 +13,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 ### References
+[12 tips for small talk](https://www.acr.org/~/media/ACR/Documents/PDF/Career-Center/Jobseeker-Resources/12TipsSmallTalk.pdf)
+[The art of small talk](http://www.lfpl.org/how-to/pdf/berniecarducci-smalltalk.pdf)
 [Making the Right Moves, second edition (full book) by Howard Hughes Medical Institute](http://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf)
 - Scientific management
 - Laboratory leadership in science
