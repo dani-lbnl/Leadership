@@ -2,7 +2,10 @@
 
 Were you bullied at school because you did not know how to stand up for yourself? Are you caught making bad deals because you have trouble voicing your opinion? It's time to take action and you can tap into many available resources such as the list created below. This [page](https://dani-lbnl.github.io/leadership/) contains links with tips that have helped numerous people. Hope it can help you too.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```markdown
+`Learning is not to be attained by chance; it must be sought with ardor and attended to with diligence`
+Abigail Adams
+```
 
 ### Why does it matter?
 
@@ -34,25 +37,5 @@ Negotiations occur everyday in the scientific laboratory and workplace and often
 - [12 tips for small talk](https://www.acr.org/~/media/ACR/Documents/PDF/Career-Center/Jobseeker-Resources/12TipsSmallTalk.pdf)
 - [The art of small talk](http://www.lfpl.org/how-to/pdf/berniecarducci-smalltalk.pdf)
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
