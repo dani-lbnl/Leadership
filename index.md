@@ -3,18 +3,20 @@
 Were you bullied at school because you did not know how to stand up for yourself? Are you caught making bad deals because you have trouble voicing your opinion? It's time to take action and you can tap into many available resources such as the list created below. This [page](https://dani-lbnl.github.io/Leadership/) contains links with tips that have helped numerous people. Hope it can help you too.
 
 ```markdown
-`Learning is not to be attained by chance;` 
-`it must be sought with ardor and attended to with diligence`
-Abigail Adams
+`Learning is not to be attained by chance; it must be sought with ardor and attended to with diligence`
+*Abigail Adams*
+`A team is a group of people who may not be equal in experience, talent, or education but in commitment`
+*Patricia Fripp*
 ```
 
 ## Why does it matter?
 Leadership involves cultivating skills about self-awareness, motivation, and learning how to bring out the best in the people on our team. It is about adding value to team members and helping them to win.
 
 ## Courses
-- [Andy Stanley podcast](https://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666?mt=2)
 - [UC Berkeley Haas 'nano'MBA](http://executive.berkeley.edu/open-programs)
   - [Example of Executive Leadership Program](http://executive.berkeley.edu/sites/default/files/Women%27s%20Executive%20Leadership%20Program.pdf)
+  
+- [Andy Stanley podcast](https://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666?mt=2)  
 
 
 ## Books and reports
