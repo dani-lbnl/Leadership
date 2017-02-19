@@ -3,8 +3,8 @@
 Were you bullied at school because you did not know how to stand up for yourself? Are you caught making bad deals because you have trouble voicing your opinion? It's time to take action and you can tap into many available resources such as the list created below. This [page](https://dani-lbnl.github.io/Leadership/) contains links with tips that have helped numerous people. Hope it can help you too.
 
 ```markdown
-`Learning is not to be attained by chance; 
-it must be sought with ardor and attended to with diligence`
+`Learning is not to be attained by chance;` 
+`it must be sought with ardor and attended to with diligence`
 Abigail Adams
 ```
 
