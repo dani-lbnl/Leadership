@@ -20,7 +20,8 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 
 ### Leadership: 
 ... because you need to drive toward a better future
-- [Making the Right Moves, second edition (full book) by Howard Hughes Medical Institute](http://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf)<details>
+- [Making the Right Moves, second edition (full book) by Howard Hughes Medical Institute](http://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf)
+<details>
 <summary>More</summary>
 - Scientific management
 - Laboratory leadership in science
@@ -38,7 +39,10 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 - [Good leaders ask great questions: your foundation for successful leadership by J.C. Maxwell](https://www.amazon.com/Good-Leaders-Ask-Great-Questions-ebook/dp/B00I829QJ8)
 
 - [The Art of Effective Negotiation by Geri Richmond](http://pages.uoregon.edu/coach/coach/pdf/international/India/IndiaNegotiations-C-4.pdf)
+<details>
+<summary>More</summary>
 Negotiations occur everyday in the scientific laboratory and workplace and often involve issues that are key to research success and career advancement.  This workshop teaches the fundamentals of negotiation relevant to a variety of one-on-one conversations and group settings.  Topics include the importance of negotiation to advance research and career objectives, identification of negotiables for research and career advancement, elements of a successful negotiation, the importance of developing alternatives to an agreement, techniques for handling difficult people and conversations, the importance of listening and appreciating different viewpoints and identification of short and long-term negotiation goals.  The session includes self-assessment discussions, role playing and practicing the techniques learned.
+</details>  
 
 ### Self-awareness:
 ... because you need to know your own strong and weak points
