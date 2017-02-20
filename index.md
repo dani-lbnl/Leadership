@@ -27,7 +27,10 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 
 ### Negotiation: 
 ... because you want win-win situations
-- [Women don't ask by Linda Babcock and Sarah Laschever](https://www.amazon.com/Women-Dont-Ask-Negotiation-Strategies/dp/0553383876)
+<details>
+<summary>- [Women don't ask by Linda Babcock and Sarah Laschever](https://www.amazon.com/Women-Dont-Ask-Negotiation-Strategies/dp/0553383876)</summary>
+*Why should we tolerate a society in which half our citizesn are arbitrarily undervalued and underpaid?*
+</details>
 
 - [Good leaders ask great questions: your foundation for successful leadership by J.C. Maxwell](https://www.amazon.com/Good-Leaders-Ask-Great-Questions-ebook/dp/B00I829QJ8)
 
