@@ -23,9 +23,7 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 - [Making the Right Moves, second edition (full book) by Howard Hughes Medical Institute](http://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf)
 <details>
 <summary>More</summary>
-- Scientific management
-- Laboratory leadership in science
-- Recruiting better
+Scientific management, Laboratory leadership in science, Recruiting better
 </details>  
 
 ### Negotiation: 
