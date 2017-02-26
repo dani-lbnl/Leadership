@@ -7,6 +7,7 @@ Were you bullied at school because you did not know how to stand up for yourself
 *Abigail Adams*
 `A team is a group of people who may not be equal in experience, talent, or education but in commitment`
 *Patricia Fripp*
+`If you wanna go fast, go alone. If you wanna go further, go together.`
 ```
 
 ## Why does it matter?
