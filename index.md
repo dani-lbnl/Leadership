@@ -26,6 +26,12 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
   Scientific management, Laboratory leadership in science, Recruiting better
   </details>  
 
+### Communication:
+- Communication Skills Training: A Practical Guide to Improving Your Social Intelligence, Presentation, Persuasion and Public Speaking [by Ian Tuhovsky](https://www.amazon.com/Communication-Skills-Training-Intelligence-Presentation-ebook/dp/B010G81716)
+<details><summary> More</summary>
+  Surprisingly, it will help you even to talk to yourself, and those that you do not want to talk with at all
+  </details> 
+  
 ### Negotiation: 
 ... because you want win-win situations
 - Women don't ask [by Linda Babcock and Sarah Laschever](https://www.amazon.com/Women-Dont-Ask-Negotiation-Strategies/dp/0553383876)
