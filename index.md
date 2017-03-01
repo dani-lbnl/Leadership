@@ -60,6 +60,9 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 
 ## Quick read:
 
+### Newspaper articles:
+- Women compete differently [self-competition](https://www.nytimes.com/2017/02/24/opinion/sunday/women-do-like-to-compete-against-themselves.html)
+
 ### Small talk: 
 ... because we need a connection before transmitting information
 - [12 tips for small talk](https://www.acr.org/~/media/ACR/Documents/PDF/Career-Center/Jobseeker-Resources/12TipsSmallTalk.pdf)
