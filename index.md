@@ -31,6 +31,7 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 <details><summary> More</summary>
   Surprisingly, it will help you even to talk to yourself, and those that you do not want to talk with at all
   </details> 
+- On writing well by William Zinsser- free book (http://www.brynmawr.edu/math/people/anmyers/ESem/on-writing-well.pdf)  
   
 ### Negotiation: 
 ... because you want win-win situations
