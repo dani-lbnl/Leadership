@@ -70,5 +70,8 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 - [The art of small talk](http://www.lfpl.org/how-to/pdf/berniecarducci-smalltalk.pdf)
 - [10 Awesome Tips for Being a Better Leader](https://www.entrepreneur.com/article/238747)
 
+### Strong talk: 
+- [Voice projection](http://www.speakschmeak.com/2010/07/four-tips-for-better-vocal-projection.html)
+
 ## Wise listening:
 - Andy Stanley [podcast](https://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666?mt=2)
