@@ -73,5 +73,9 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 ### Strong talk: 
 - [Voice projection](http://www.speakschmeak.com/2010/07/four-tips-for-better-vocal-projection.html)
 
+### Organize a breakout:
+- [Effective](http://web.mit.edu/2.009/www/resources/mediaAndArticles/3_MeetingPrimer.pdf)
+- [Facilitation](http://www.reefresilience.org/pdf/Facilitation_Effective_Meetings.pdf)
+
 ## Wise listening:
 - Andy Stanley [podcast](https://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666?mt=2)
