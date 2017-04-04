@@ -1,6 +1,6 @@
 ## Welcome to the Empowerment Corner
 
-Were you bullied at school because you did not know how to stand up for yourself? Are you caught making bad deals because you have trouble voicing your opinion? It's time to take action and you can tap into many available resources such as the list created below. This [page](https://dani-lbnl.github.io/Leadership/) contains links with tips that have helped numerous people. Hope it can help you too.
+Bullied because you do not know how to stand up for yourself? Are you caught making bad deals because you have trouble voicing your opinion? It's time to take action and you can tap into many available resources such as the list created below. This [page](https://dani-lbnl.github.io/Leadership/) contains links with tips that have helped numerous people. Hope it can help you too.
 
 ```markdown
 `Learning is not to be attained by chance; it must be sought with ardor and attended to with diligence`
@@ -14,6 +14,7 @@ Were you bullied at school because you did not know how to stand up for yourself
 Leadership involves cultivating skills about self-awareness, motivation, and learning how to bring out the best in the people on our team. It is about adding value to team members and helping them to win.
 
 ## Courses:
+- UC Women Initiative [course](https://sites.google.com/coronorcal.org/ucwinorcal/home)
 - UC Berkeley Haas ['nano'MBA](http://executive.berkeley.edu/open-programs)
   - Example of Executive Leadership [Program](http://executive.berkeley.edu/sites/default/files/Women%27s%20Executive%20Leadership%20Program.pdf)
 
@@ -29,7 +30,7 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 ### Communication:
 - Communication Skills Training: A Practical Guide to Improving Your Social Intelligence, Presentation, Persuasion and Public Speaking [by Ian Tuhovsky](https://www.amazon.com/Communication-Skills-Training-Intelligence-Presentation-ebook/dp/B010G81716)
 <details><summary> More</summary>
-  Surprisingly, it will help you even to talk to yourself, and those that you do not want to talk with at all
+  Surprisingly, it will help you even to talk to yourself, and those that you do not want to talk to, at all! A joyful way of learning how to be a better communicator!
   </details> 
 - On writing well by William Zinsser- free book (http://www.brynmawr.edu/math/people/anmyers/ESem/on-writing-well.pdf)  
   
