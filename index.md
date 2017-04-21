@@ -15,6 +15,7 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 
 ## Courses:
 - UC Women Initiative [course](https://sites.google.com/coronorcal.org/ucwinorcal/home)
+  - Some of the main tools also available [here](https://github.com/dani-lbnl/Leadership/ucwi)
 - UC Berkeley Haas ['nano'MBA](http://executive.berkeley.edu/open-programs)
   - Example of Executive Leadership [Program](http://executive.berkeley.edu/sites/default/files/Women%27s%20Executive%20Leadership%20Program.pdf)
 
