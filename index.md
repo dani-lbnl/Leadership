@@ -22,7 +22,7 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 ## Books and reports:
 
 ### Leadership: 
-... because you need to drive toward a better future
+... because there is a better future waiting for you
 - Making the Right Moves, second edition (full book) [by Howard Hughes Medical Institute](http://www.hhmi.org/sites/default/files/Educational%20Materials/Lab%20Management/Making%20the%20Right%20Moves/moves2.pdf)
   <details><summary> More</summary>
   Scientific management, Laboratory leadership in science, Recruiting better
