@@ -83,4 +83,4 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 - Andy Stanley [podcast](https://itunes.apple.com/us/podcast/andy-stanley-leadership-podcast/id290055666?mt=2)
 
 ## Gender parity and salary:
-- Companies that have addressed gender parity [Salesforce](http://fortune.com/2017/01/20/salesforce-marc-benioff-gender-pay-gap-davos/)
+- Companies that have addressed gender parity: [Salesforce](http://fortune.com/2017/01/20/salesforce-marc-benioff-gender-pay-gap-davos/)
