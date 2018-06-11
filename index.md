@@ -27,6 +27,7 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
   <details><summary> More</summary>
   Scientific management, Laboratory leadership in science, Recruiting better
   </details>  
+- Good leaders recognize help from others [here](https://www.thebalancecareers.com/employee-recognition-rocks-1919053)
 
 ### Communication:
 - Communication Skills Training: A Practical Guide to Improving Your Social Intelligence, Presentation, Persuasion and Public Speaking [by Ian Tuhovsky](https://www.amazon.com/Communication-Skills-Training-Intelligence-Presentation-ebook/dp/B010G81716)
