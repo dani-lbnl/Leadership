@@ -59,6 +59,7 @@ Leadership involves cultivating skills about self-awareness, motivation, and lea
 ... because you need to know your own strong and weak points
 - Emotional Intelligence 2.0 [by T. Bradberry and J. Greaves](https://www.amazon.com/Emotional-Intelligence-2-0-Travis-Bradberry/dp/149151356X)
 - Transcendental [meditation](http://www.tm.org/transcendental-meditation-san-francisco)
+- Impostor Sindrome & other [challenges](https://dev.to/vtrpldn/how-i-manage-impostor-syndrome-fear-of-failure-and-other-common-programmer-problems-3nk6?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign=)
 
 ### Equality and diverse teams: 
 ... because a colorful society opens up a rainbow of possibilities
